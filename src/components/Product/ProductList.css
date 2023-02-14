@@ -1,0 +1,15 @@
+.list{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.main-title{
+    margin-top: 70px;
+    margin-bottom: 60px;
+    margin-left: 127px;
+    align-items: center;
+    font-size: 24px;
+    font-weight: 700;
+}

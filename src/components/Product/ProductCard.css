@@ -1,0 +1,56 @@
+.card{
+    width: 280px;
+    height: 328px;
+    border: 1px solid #E1E1E1;
+}
+.tite{
+    font-weight: 18px;
+    margin-left: 20px;
+    width: 150 px;
+    margin-bottom: 0;
+}
+.creator{
+    font-weight: 18px;
+    margin-left: 20px;
+    margin-top: 0;
+    margin-bottom: 30px;
+    width: 150 px;
+}
+.prev-price{
+    color: #A0A0A0;
+    font-size: 14px;
+    text-decoration: line-through;
+    margin: 0;
+}
+.price{
+    margin: 0;
+    padding-top: 7px;
+    font-size: 16px;
+    font-weight: 700;
+}
+.paintings{
+    width: 280px;
+    height: 160px;
+}
+.price-btn-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    height: 48px;
+}
+.buy-button{
+    height: 48px;
+    width: 118px;
+    font-family: 'Merriweather';
+    font-size: 14px;
+    color: #F4F6F9;
+    background-color: #382E2B;
+    border: 1px solid #382E2B;
+}
+.buy-button.added{
+    background-color:#5B3A32;
+    border: 1px solid #5B3A32;    
+}
+.added{
+    margin-right: 5px;
+}

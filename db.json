@@ -1,0 +1,37 @@
+{
+    "products":
+    [
+        {
+            "id":1,
+            "img":"https://cdn.forbes.ru/forbes-static/new/2022/10/Screenshot-2022-10-11-at-18-14-09-copy-634588656e865.jpg",
+            "title":"«Рождение Венеры»",
+            "creator":"Сандро Боттичелли",
+            "price":"1 000 000 $",
+            "prevPrice":"2 000 000 $"        
+        },
+        {
+            "id":2,
+            "img":"https://mentors.team/wp-content/uploads/2020/11/Tajnaja-vecherja.jpg",
+            "title":"«Тайная вечеря»",
+            "creator":"Леонардо да Винчи",
+            "price":"1 000 000 $",
+            "prevPrice":""
+        },
+        {
+            "id":3,
+            "img":"https://cdn.gallerix.asia/sr/M/1161425349/2468.jpg",
+            "title":"«Сотворение Адама»",
+            "creator":"Микеланджело",
+            "price":"6 000 000 $",
+            "prevPrice":"5 000 000 $"
+        },
+        {
+            "id":4,
+            "img":"https://legacy-time.ru/img/works_art/0026/urok-anatomii-doktora-tulpa.jpg",
+            "title":"«Урок анатомии»",
+            "creator":"Рембрандт",
+            "price":"1 000 000 $",
+            "prevPrice":"2 000 000 $"  
+        }
+    ]
+  }
